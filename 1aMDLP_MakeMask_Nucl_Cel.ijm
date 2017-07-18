@@ -8,7 +8,7 @@
 BaseNameTab=newArray("0_B","0_S");
 //BaseNameTab=newArray("1_B");
 //BaseNameTab=newArray("Triangle");
-BaseNameTab=newArray("Yen");
+BaseNameTab=newArray("Yen");    //nom des conditions d'une manip
 
 lengh=lengthOf(BaseNameTab);
 dirselect = getDirectory("Choisir le dossier GENERAL de la manip");
