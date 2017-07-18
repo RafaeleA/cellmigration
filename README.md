@@ -7,10 +7,16 @@ git clone it
 ## Testing with sample image
 
 ### Routine
-The main folder (named dossier PRINCIPAL in the macros) should contain several as many folders that there are conditions in the experiments, with the corresponding cells in those folders.
+The main folder (named dossier PRINCIPAL in the macros) should contain  as many folders that there are conditions in the experiment. the corresponding cells should be saved in those folders.
+
+*Example*
+
+For an experiment whith 3 drug concentrations and a control, there should be 4 folders : control, Conc1, conc2, con3. 
+
 BaseNameTab if an array with the names of all the condition of the experiment. 
-Everytime you use a new macro, rename BaseNameTab with the name of the condition of the experiment (name of the folder).
-Example : Yen
+Everytime you use a new macro, rename BaseNameTab with the names of the conditions of the experiment (name of the folders).
+Example : BaseNameTab=newArray(Yen), or BaseNameTab=newArray("conc1","conc2");
+
 
 In some macro that does not loop on all the conditions names, BaseName is a variable equivalent to BaseNameTab, for just 1 condition. 
 
