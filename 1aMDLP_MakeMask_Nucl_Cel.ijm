@@ -5,10 +5,12 @@
 //BaseNameTab=newArray("0-5cells","5-0cells");
 
 
-BaseNameTab=newArray("0_B","0_S");
+BaseNameTab=newArray("P0","P5","P10","P15");
+//BaseNameTab=newArray("0_B");
+
 //BaseNameTab=newArray("1_B");
 //BaseNameTab=newArray("Triangle");
-BaseNameTab=newArray("Yen");    //nom des conditions d'une manip
+//BaseNameTab=newArray("Yen");    //nom des conditions d'une manip
 
 lengh=lengthOf(BaseNameTab);
 dirselect = getDirectory("Choisir le dossier GENERAL de la manip");

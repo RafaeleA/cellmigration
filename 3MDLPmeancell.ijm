@@ -1,6 +1,6 @@
 /// macro cellule moyenne, marche apres avoir extrait des cellules dans un dossier et avoir supprimer l'image Montage.tif du dossier
 //=newArray("30_WT","30_KO","40_WT","40_KO");
-BaseNameTab=newArray("100_S");
+BaseNameTab=newArray("0_B","0_S");
 //"0_B",
 //BaseNameTab=newArray("Yen");
 //BaseNameTab=newArray("1","2","3","0bis");BaseNameTab=newArray("1");

@@ -8,6 +8,9 @@ BaseNameTab=newArray("Yen");
 //BaseNameTab=newArray("cell3p10");
 BaseNameTab=newArray("0","1","2","3","0bis");
 BaseNameTab=newArray("0_B","0_S");
+BaseNameTab=newArray("0_B");
+BaseNameTab=newArray("P0","P5","P10","P15");
+
 //BaseNameTab=newArray("1_B");
 iBaseName=lengthOf(BaseNameTab);
 //print(lengh);
