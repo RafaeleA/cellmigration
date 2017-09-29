@@ -3,7 +3,7 @@
 From cells cropped from a movie, make a mean cell that is the mean of all the cells at all timepoints, for all the conditions of an experiment. 
 
 ## Installation
-Make sure you have Fiji installed [https://imagej.net/Fiji/Downloads] (works better with the 2105 December 22 release)
+Make sure you have [Fiji](https://imagej.net/Fiji/Downloads) installed (works better with the 2105 December 22 release)
 
 git clone it
 
